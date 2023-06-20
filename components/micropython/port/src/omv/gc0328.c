@@ -48,7 +48,7 @@ enum
 
 };
 
-#define GC0328_HIGH_QUALITY_EN
+// #define GC0328_HIGH_QUALITY_EN
 
 #ifdef GC0328_HIGH_QUALITY_EN
 static const uint8_t sensor_default_regs[][2] =
